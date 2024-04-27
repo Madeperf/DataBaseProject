@@ -1,2 +1,2 @@
 # DataBaseProject
-A repository for a DataBase exercise
+A repository for a DataBase group exercise 
