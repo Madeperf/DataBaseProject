@@ -9,6 +9,7 @@ Entity-Relationship Diagram:
 
 
 Relational Diagram: 
-![Untitled](https://github.com/Madeperf/DataBaseProject/assets/167219550/922cd7af-64cc-475f-a6a8-63c1bbb3c34a)
+![Untitled (1)](https://github.com/Madeperf/DataBaseProject/assets/167219550/e8dead2a-a74c-4f96-9ce8-b5ea7b609b34)
+
 
 
